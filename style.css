@@ -72,13 +72,13 @@ h2{
 #backend-dev-experience{
     border-left: 7px solid;
     border-image: linear-gradient(purple, tomato);
-    border-image-slice: 30; 
+    border-image-slice: 1; 
 }
 
 #frontend-dev-experience{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
-    border-image-slice: 30; 
+    border-image-slice: 1; 
 }
 
 footer p{
